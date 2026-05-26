@@ -22,9 +22,9 @@ This project replicates the core layout and user interface of the Paytm homepage
 ## Tech Stack
 
 * React.js
-* JavaScript / TypeScript *(update based on your implementation)*
+* JavaScript
 * HTML5
-* CSS3 / Tailwind CSS *(update based on your project)*
+* CSS3 / Tailwind CSS 
 * Responsive Web Design
 
 ---
